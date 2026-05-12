@@ -1,0 +1,46 @@
+
+[IMPORTACAO] Tabela: saps_atendimentos
+Arquivos selecionados: 5
+
+[ARQUIVO 1/5] //sirius/vignoli/tipatend101.csv
+[INFO] Cabecalho CSV detectado na linha 3.
+[LIMPEZA] 274,443 linha(s) CSV com quantidade de campos ajustada.
+
+[SUCESSO] 274443 novos registros inseridos na tabela 'saps_atendimentos'.
+[OK] 274.443 registros inseridos por este arquivo.
+
+[ARQUIVO 2/5] //sirius/vignoli/tipatend1144.csv
+[INFO] Cabecalho CSV detectado na linha 3.
+[LIMPEZA] 18,754 linha(s) CSV com quantidade de campos ajustada.
+
+[SUCESSO] 18754 novos registros inseridos na tabela 'saps_atendimentos'.
+[OK] 18.754 registros inseridos por este arquivo.
+
+[ARQUIVO 3/5] //sirius/vignoli/tipatend1763.csv
+[INFO] Cabecalho CSV detectado na linha 3.
+[LIMPEZA] 6,828 linha(s) CSV com quantidade de campos ajustada.
+
+[SUCESSO] 6828 novos registros inseridos na tabela 'saps_atendimentos'.
+[OK] 6.828 registros inseridos por este arquivo.
+
+[ARQUIVO 4/5] //sirius/vignoli/tipatend1976.csv
+[INFO] Cabecalho CSV detectado na linha 3.
+[LIMPEZA] 2,907 linha(s) CSV com quantidade de campos ajustada.
+
+[SUCESSO] 2907 novos registros inseridos na tabela 'saps_atendimentos'.
+[OK] 2.907 registros inseridos por este arquivo.
+
+[ARQUIVO 5/5] //sirius/vignoli/tipatend2010.csv
+[INFO] Cabecalho CSV detectado na linha 3.
+[LIMPEZA] 2,341,042 linha(s) CSV com quantidade de campos ajustada.
+
+[SUCESSO] 2341042 novos registros inseridos na tabela 'saps_atendimentos'.
+[OK] 2.341.042 registros inseridos por este arquivo.
+[FIM] Importacao concluida.
+Arquivos processados: 5
+Registros inseridos: 2.643.974
+Falhas: 0
+Total atual na tabela: 2.643.974
+Sistema iniciado.
+Pasta de arquivos: C:\Users\vignoli\Analise de Dados\PRODUTIVIDADE\GEREL\dados
+
