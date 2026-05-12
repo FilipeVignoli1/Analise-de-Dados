@@ -1,0 +1,6 @@
+pandas
+duckdb
+sqlalchemy
+ipykernel
+openpyxl
+matplotlib
